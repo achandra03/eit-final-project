@@ -1,0 +1,4 @@
+openai==1.23.6
+PyAudio==0.2.14
+selenium==4.20.0
+SpeechRecognition==3.10.3
